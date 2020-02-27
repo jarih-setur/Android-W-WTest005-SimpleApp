@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WTest005-SimpleApp</string>
+    <string name="showhidelayout">Show/Hide Layout</string>
+    <string name="hidelayout">Hide Layout</string>
+</resources>
